@@ -1,4 +1,4 @@
-# Star Rail Code Bot
+# Star Rail & Zenless Zone Zero Code Bot
 
 This is intended to be ran with docker. it polls prydwen.gg for new codes every 30 minutes and posts that to a discord channel.
 
